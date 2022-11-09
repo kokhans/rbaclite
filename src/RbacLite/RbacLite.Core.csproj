@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>Role-based access control core abstactions, interfaces and types used by RbacLite.* libraries.</Description>
+    <PackageTags>rbaclite</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Carcass.Core" Version="1.0.0-alpha.3" />
+  </ItemGroup>
+
+</Project>

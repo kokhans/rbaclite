@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>In-memory role-based access control provider.</Description>
+    <PackageTags>rbaclite</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RbacLite\RbacLite.Core.csproj" />
+  </ItemGroup>
+
+</Project>
